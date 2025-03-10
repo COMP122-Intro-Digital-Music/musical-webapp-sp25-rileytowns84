@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "guitar",
+    "file": "samples/cool_electric_guitar_tuning.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "rubber chicken",
+    "file": "samples/nervous_rubber_chicken.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "cta",
+    "file": "samples/cta1.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
