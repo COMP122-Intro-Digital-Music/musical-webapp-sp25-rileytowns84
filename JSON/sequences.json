@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "name": "something meaningful",
+    "loop": "5:3:0.2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "4:1:2.0",
+        "pitch": "Bb4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "something else meaningful",
+    "loop": "5:3:0.2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "5:2:0.2",
+        "pitch": "C#4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
