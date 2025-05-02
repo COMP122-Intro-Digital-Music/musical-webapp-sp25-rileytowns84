@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "name": "stanley",
+    "pitchSet": {
+      "state": "C4",
+      "matrix": {
+        "C4": [
+          "Eb3"
+        ],
+        "Db6": [
+          "C4"
+        ],
+        "Eb3": [
+          "Eb3"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n"
+        ]
+      }
+    }
+  }
+]
